@@ -1,0 +1,4 @@
+Este é um programa simples de sistema bancário desenvolvido em Java. Ele permite que o usuário interaja com um menu para realizar operações bancárias básicas, como saque, depósito, verificação de saldo e troca de conta. O programa também valida a idade do usuário antes de permitir o acesso ao sistema.
+
+Verificação de Idade: O sistema verifica se o usuário tem 18 anos ou mais para acessar o banco. Cadastro de Conta: O usuário pode escolher entre dois tipos de conta: 1 - Poupança: Saldo inicial de R$ 1000. 2 - Corrente: Saldo inicial de R$ 500. Menu de Operações: 1 - Sacar: Permite ao usuário sacar um valor do saldo. 2 - Depositar: Permite ao usuário depositar um valor na conta. 3 - Verifique Saldo: Exibe o saldo atual da conta. 4 - Trocar Conta: Permite ao usuário trocar entre os tipos de conta. 5 - Sair: Fechar o programa. Validação de Entradas: O programa valida entradas inválidas, como números negativos ou opções fora do menu.
+
